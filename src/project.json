@@ -1,0 +1,7 @@
+{
+  "base_profile": {
+    "platforms": ["Direct3D_SM65"],
+    "merge_source": ["../vanilla"],
+    "exclude_patterns": ["include"]
+  }
+}
